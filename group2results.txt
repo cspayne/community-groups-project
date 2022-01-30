@@ -1,0 +1,728 @@
+WEEK 1
+GROUP 1: 
+Lucienne, Clyde  (Host) | Cortney | Darnell | Miyoko | Bob | Kourtney | Kevin
+
+GROUP 2: 
+Eddie, Mel (Host) | Jenice | Harmony | Arlette | Aaron, Raina
+
+GROUP 3: 
+Ping (Host) | Collen | Angeline | Noelia | Colette | Dong | Yolando
+
+GROUP 4: 
+Yahaira (Host) | Gearldine | Virgen | Vicente | Nenita | Letha, Bruce
+
+WEEK 2
+GROUP 1: 
+Lucienne, Clyde  (Host) | Eddie, Mel | Jenice | Harmony | Arlette | Kourtney
+
+GROUP 2: 
+Aaron, Raina (Host) | Ping | Collen | Angeline | Noelia | Colette
+
+GROUP 3: 
+Dong (Host) | Yolando | Yahaira | Gearldine | Virgen | Vicente | Nenita
+
+GROUP 4: 
+Letha, Bruce (Host) | Kevin | Cortney | Darnell | Miyoko | Bob
+
+WEEK 3
+GROUP 1: 
+Lucienne, Clyde  (Host) | Aaron, Raina | Ping | Collen | Angeline | Arlette
+
+GROUP 2: 
+Noelia (Host) | Colette | Dong | Yolando | Yahaira | Gearldine | Virgen
+
+GROUP 3: 
+Vicente (Host) | Nenita | Letha, Bruce | Kevin | Cortney | Darnell
+
+GROUP 4: 
+Miyoko (Host) | Bob | Kourtney | Eddie, Mel | Jenice | Harmony
+
+WEEK 4
+GROUP 1: 
+Lucienne, Clyde  (Host) | Noelia | Colette | Dong | Yolando | Yahaira | Angeline
+
+GROUP 2: 
+Gearldine (Host) | Virgen | Vicente | Nenita | Letha, Bruce | Kevin
+
+GROUP 3: 
+Cortney (Host) | Darnell | Miyoko | Bob | Kourtney | Eddie, Mel
+
+GROUP 4: 
+Jenice (Host) | Harmony | Arlette | Aaron, Raina | Ping | Collen
+
+WEEK 5
+GROUP 1: 
+Lucienne, Clyde  (Host) | Gearldine | Virgen | Vicente | Nenita | Kevin | Bob
+
+GROUP 2: 
+Cortney (Host) | Jenice | Harmony | Arlette | Aaron, Raina | Ping
+
+GROUP 3: 
+Collen (Host) | Angeline | Noelia | Colette | Dong | Yolando | Yahaira
+
+GROUP 4: 
+Letha, Bruce (Host) | Kourtney | Eddie, Mel | Darnell | Miyoko
+
+WEEK 6
+GROUP 1: 
+Lucienne, Clyde  (Host) | Letha, Bruce | Kevin | Cortney | Darnell | Harmony
+
+GROUP 2: 
+Miyoko (Host) | Arlette | Aaron, Raina | Ping | Collen | Angeline
+
+GROUP 3: 
+Noelia (Host) | Vicente | Nenita | Bob | Kourtney | Eddie, Mel
+
+GROUP 4: 
+Jenice (Host) | Colette | Dong | Yolando | Yahaira | Gearldine | Virgen
+
+WEEK 7
+GROUP 1: 
+Cortney (Host) | Collen | Angeline | Noelia | Colette | Dong | Yolando
+
+GROUP 2: 
+Yahaira (Host) | Kevin | Lucienne, Clyde  | Darnell | Miyoko | Bob
+
+GROUP 3: 
+Kourtney (Host) | Eddie, Mel | Jenice | Harmony | Arlette | Ping
+
+GROUP 4: 
+Gearldine (Host) | Aaron, Raina | Virgen | Vicente | Nenita | Letha, Bruce
+
+WEEK 8
+GROUP 1: 
+Cortney (Host) | Yahaira | Gearldine | Virgen | Vicente | Nenita | Kevin | Yolando
+
+GROUP 2: 
+Darnell (Host) | Miyoko | Bob | Kourtney | Eddie, Mel | Jenice
+
+GROUP 3: 
+Harmony (Host) | Arlette | Aaron, Raina | Ping | Collen | Angeline
+
+GROUP 4: 
+Noelia (Host) | Letha, Bruce | Lucienne, Clyde  | Colette | Dong
+
+WEEK 9
+GROUP 1: 
+Cortney (Host) | Letha, Bruce | Kevin | Lucienne, Clyde  | Darnell | Collen
+
+GROUP 2: 
+Miyoko (Host) | Noelia | Colette | Dong | Yolando | Yahaira | Gearldine
+
+GROUP 3: 
+Virgen (Host) | Vicente | Nenita | Bob | Kourtney | Eddie, Mel
+
+GROUP 4: 
+Jenice (Host) | Angeline | Harmony | Arlette | Aaron, Raina | Ping
+
+WEEK 10
+GROUP 1: 
+Darnell (Host) | Harmony | Arlette | Aaron, Raina | Ping | Collen | Jenice
+
+GROUP 2: 
+Angeline (Host) | Noelia | Colette | Dong | Yolando | Yahaira | Gearldine
+
+GROUP 3: 
+Virgen (Host) | Letha, Bruce | Kevin | Lucienne, Clyde  | Cortney
+
+GROUP 4: 
+Miyoko (Host) | Vicente | Nenita | Bob | Kourtney | Eddie, Mel
+
+WEEK 11
+GROUP 1: 
+Darnell (Host) | Angeline | Noelia | Colette | Dong | Yolando | Yahaira | Kevin
+
+GROUP 2: 
+Gearldine (Host) | Lucienne, Clyde  | Cortney | Miyoko | Bob | Kourtney
+
+GROUP 3: 
+Eddie, Mel (Host) | Ping | Collen | Virgen | Vicente | Nenita
+
+GROUP 4: 
+Letha, Bruce (Host) | Jenice | Harmony | Arlette | Aaron, Raina
+
+WEEK 12
+GROUP 1: 
+Darnell (Host) | Gearldine | Virgen | Vicente | Nenita | Letha, Bruce | Collen
+
+GROUP 2: 
+Kevin (Host) | Lucienne, Clyde  | Cortney | Miyoko | Bob | Kourtney
+
+GROUP 3: 
+Eddie, Mel (Host) | Angeline | Noelia | Colette | Dong | Yolando
+
+GROUP 4: 
+Yahaira (Host) | Jenice | Harmony | Arlette | Aaron, Raina | Ping
+
+WEEK 13
+GROUP 1: 
+Darnell (Host) | Kevin | Lucienne, Clyde  | Cortney | Miyoko | Bob | Nenita
+
+GROUP 2: 
+Kourtney (Host) | Aaron, Raina | Collen | Angeline | Noelia | Colette
+
+GROUP 3: 
+Dong (Host) | Letha, Bruce | Eddie, Mel | Jenice | Harmony
+
+GROUP 4: 
+Arlette (Host) | Ping | Yolando | Yahaira | Gearldine | Virgen | Vicente
+
+WEEK 14
+GROUP 1: 
+Miyoko (Host) | Virgen | Letha, Bruce | Kevin | Lucienne, Clyde  | Colette
+
+GROUP 2: 
+Bob (Host) | Kourtney | Eddie, Mel | Jenice | Harmony | Arlette
+
+GROUP 3: 
+Aaron, Raina (Host) | Dong | Yolando | Yahaira | Gearldine | Vicente
+
+GROUP 4: 
+Nenita (Host) | Cortney | Darnell | Ping | Collen | Angeline | Noelia
+
+WEEK 15
+GROUP 1: 
+Miyoko (Host) | Cortney | Darnell | Bob | Kourtney | Eddie, Mel | Ping
+
+GROUP 2: 
+Jenice (Host) | Noelia | Vicente | Nenita | Letha, Bruce | Kevin
+
+GROUP 3: 
+Harmony (Host) | Colette | Dong | Yolando | Yahaira | Gearldine | Virgen
+
+GROUP 4: 
+Arlette (Host) | Aaron, Raina | Collen | Angeline | Lucienne, Clyde 
+
+WEEK 16
+GROUP 1: 
+Bob (Host) | Aaron, Raina | Ping | Collen | Angeline | Noelia | Arlette
+
+GROUP 2: 
+Colette (Host) | Dong | Yolando | Yahaira | Gearldine | Virgen | Vicente
+
+GROUP 3: 
+Nenita (Host) | Letha, Bruce | Kevin | Lucienne, Clyde  | Miyoko
+
+GROUP 4: 
+Kourtney (Host) | Cortney | Darnell | Eddie, Mel | Jenice | Harmony
+
+WEEK 17
+GROUP 1: 
+Bob (Host) | Colette | Dong | Yolando | Yahaira | Gearldine | Virgen | Noelia
+
+GROUP 2: 
+Vicente (Host) | Lucienne, Clyde  | Miyoko | Kourtney | Eddie, Mel
+
+GROUP 3: 
+Jenice (Host) | Cortney | Darnell | Harmony | Arlette | Aaron, Raina
+
+GROUP 4: 
+Ping (Host) | Nenita | Letha, Bruce | Kevin | Collen | Angeline
+
+WEEK 18
+GROUP 1: 
+Bob (Host) | Vicente | Nenita | Letha, Bruce | Kevin | Cortney | Angeline
+
+GROUP 2: 
+Kourtney (Host) | Dong | Yolando | Yahaira | Gearldine | Virgen | Darnell
+
+GROUP 3: 
+Eddie, Mel (Host) | Lucienne, Clyde  | Miyoko | Jenice | Harmony
+
+GROUP 4: 
+Arlette (Host) | Noelia | Colette | Aaron, Raina | Ping | Collen
+
+WEEK 19
+GROUP 1: 
+Bob (Host) | Lucienne, Clyde  | Darnell | Miyoko | Kourtney | Jenice | Dong
+
+GROUP 2: 
+Harmony (Host) | Noelia | Vicente | Nenita | Letha, Bruce | Kevin
+
+GROUP 3: 
+Eddie, Mel (Host) | Yahaira | Gearldine | Virgen | Cortney | Arlette
+
+GROUP 4: 
+Aaron, Raina (Host) | Yolando | Ping | Collen | Angeline | Colette
+
+WEEK 20
+GROUP 1: 
+Kourtney (Host) | Vicente | Nenita | Letha, Bruce | Kevin | Cortney | Yolando
+
+GROUP 2: 
+Eddie, Mel (Host) | Darnell | Miyoko | Bob | Jenice | Harmony
+
+GROUP 3: 
+Arlette (Host) | Dong | Virgen | Lucienne, Clyde  | Aaron, Raina
+
+GROUP 4: 
+Ping (Host) | Yahaira | Gearldine | Collen | Angeline | Noelia | Colette
+
+WEEK 21
+GROUP 1: 
+Kourtney (Host) | Lucienne, Clyde  | Miyoko | Bob | Eddie, Mel | Cortney
+
+GROUP 2: 
+Jenice (Host) | Darnell | Harmony | Arlette | Aaron, Raina | Ping
+
+GROUP 3: 
+Collen (Host) | Gearldine | Virgen | Vicente | Nenita | Letha, Bruce
+
+GROUP 4: 
+Kevin (Host) | Angeline | Noelia | Colette | Dong | Yolando | Yahaira
+
+WEEK 22
+GROUP 1: 
+Eddie, Mel (Host) | Letha, Bruce | Kevin | Miyoko | Bob | Gearldine
+
+GROUP 2: 
+Jenice (Host) | Lucienne, Clyde  | Darnell | Kourtney | Harmony | Arlette
+
+GROUP 3: 
+Aaron, Raina (Host) | Virgen | Nenita | Cortney | Ping | Collen
+
+GROUP 4: 
+Angeline (Host) | Vicente | Noelia | Colette | Dong | Yolando | Yahaira
+
+WEEK 23
+GROUP 1: 
+Eddie, Mel (Host) | Kourtney | Jenice | Harmony | Arlette | Ping | Vicente
+
+GROUP 2: 
+Collen (Host) | Kevin | Lucienne, Clyde  | Cortney | Darnell | Miyoko
+
+GROUP 3: 
+Aaron, Raina (Host) | Letha, Bruce | Bob | Angeline | Noelia
+
+GROUP 4: 
+Colette (Host) | Nenita | Dong | Yolando | Yahaira | Gearldine | Virgen
+
+WEEK 24
+GROUP 1: 
+Jenice (Host) | Miyoko | Bob | Kourtney | Eddie, Mel | Harmony | Vicente
+
+GROUP 2: 
+Arlette (Host) | Nenita | Letha, Bruce | Kevin | Lucienne, Clyde 
+
+GROUP 3: 
+Aaron, Raina (Host) | Darnell | Ping | Collen | Angeline | Noelia
+
+GROUP 4: 
+Colette (Host) | Cortney | Dong | Yolando | Yahaira | Gearldine | Virgen
+
+WEEK 25
+GROUP 1: 
+Harmony (Host) | Lucienne, Clyde  | Cortney | Darnell | Miyoko | Bob | Yahaira
+
+GROUP 2: 
+Arlette (Host) | Kourtney | Eddie, Mel | Jenice | Aaron, Raina
+
+GROUP 3: 
+Ping (Host) | Virgen | Vicente | Nenita | Letha, Bruce | Kevin
+
+GROUP 4: 
+Collen (Host) | Gearldine | Angeline | Noelia | Colette | Dong | Yolando
+
+WEEK 26
+GROUP 1: 
+Harmony (Host) | Kourtney | Eddie, Mel | Jenice | Arlette | Ping
+
+GROUP 2: 
+Collen (Host) | Bob | Aaron, Raina | Angeline | Noelia | Colette
+
+GROUP 3: 
+Dong (Host) | Kevin | Lucienne, Clyde  | Cortney | Darnell | Miyoko
+
+GROUP 4: 
+Yolando (Host) | Yahaira | Gearldine | Virgen | Vicente | Nenita | Letha, Bruce
+
+WEEK 27
+GROUP 1: 
+Arlette (Host) | Cortney | Darnell | Miyoko | Bob | Kourtney | Jenice | Nenita
+
+GROUP 2: 
+Aaron, Raina (Host) | Kevin | Lucienne, Clyde  | Eddie, Mel
+
+GROUP 3: 
+Ping (Host) | Harmony | Collen | Angeline | Noelia | Colette | Dong
+
+GROUP 4: 
+Yolando (Host) | Letha, Bruce | Yahaira | Gearldine | Virgen | Vicente
+
+WEEK 28
+GROUP 1: 
+Arlette (Host) | Harmony | Aaron, Raina | Ping | Collen | Angeline | Nenita
+
+GROUP 2: 
+Noelia (Host) | Kevin | Cortney | Darnell | Miyoko | Bob | Kourtney
+
+GROUP 3: 
+Colette (Host) | Letha, Bruce | Lucienne, Clyde  | Eddie, Mel
+
+GROUP 4: 
+Dong (Host) | Jenice | Yolando | Yahaira | Gearldine | Virgen | Vicente
+
+WEEK 29
+GROUP 1: 
+Aaron, Raina (Host) | Miyoko | Kourtney | Jenice | Harmony | Arlette | Vicente
+
+GROUP 2: 
+Ping (Host) | Lucienne, Clyde  | Cortney | Darnell | Bob | Collen
+
+GROUP 3: 
+Angeline (Host) | Virgen | Nenita | Letha, Bruce | Kevin | Noelia
+
+GROUP 4: 
+Colette (Host) | Eddie, Mel | Dong | Yolando | Yahaira | Gearldine
+
+WEEK 30
+GROUP 1: 
+Ping (Host) | Miyoko | Kourtney | Eddie, Mel | Jenice | Harmony | Cortney
+
+GROUP 2: 
+Collen (Host) | Arlette | Aaron, Raina | Angeline | Noelia | Colette
+
+GROUP 3: 
+Dong (Host) | Bob | Yolando | Yahaira | Gearldine | Virgen | Vicente
+
+GROUP 4: 
+Nenita (Host) | Darnell | Letha, Bruce | Kevin | Lucienne, Clyde 
+
+WEEK 31
+GROUP 1: 
+Ping (Host) | Arlette | Aaron, Raina | Collen | Angeline | Noelia | Cortney
+
+GROUP 2: 
+Colette (Host) | Kevin | Darnell | Miyoko | Bob | Kourtney | Jenice
+
+GROUP 3: 
+Dong (Host) | Harmony | Yolando | Yahaira | Gearldine | Virgen | Vicente
+
+GROUP 4: 
+Nenita (Host) | Eddie, Mel | Letha, Bruce | Lucienne, Clyde 
+
+WEEK 32
+GROUP 1: 
+Collen (Host) | Kourtney | Eddie, Mel | Jenice | Harmony | Arlette
+
+GROUP 2: 
+Angeline (Host) | Lucienne, Clyde  | Cortney | Darnell | Miyoko | Bob
+
+GROUP 3: 
+Noelia (Host) | Aaron, Raina | Ping | Colette | Dong | Yolando
+
+GROUP 4: 
+Yahaira (Host) | Kevin | Gearldine | Virgen | Vicente | Nenita | Letha, Bruce
+
+WEEK 33
+GROUP 1: 
+Collen (Host) | Ping | Angeline | Noelia | Colette | Dong | Yolando | Miyoko
+
+GROUP 2: 
+Yahaira (Host) | Cortney | Kourtney | Eddie, Mel | Jenice | Harmony
+
+GROUP 3: 
+Gearldine (Host) | Darnell | Arlette | Aaron, Raina | Virgen | Vicente
+
+GROUP 4: 
+Nenita (Host) | Bob | Letha, Bruce | Kevin | Lucienne, Clyde 
+
+WEEK 34
+GROUP 1: 
+Angeline (Host) | Kourtney | Eddie, Mel | Jenice | Harmony | Arlette
+
+GROUP 2: 
+Noelia (Host) | Collen | Colette | Dong | Yolando | Yahaira | Gearldine
+
+GROUP 3: 
+Virgen (Host) | Darnell | Miyoko | Bob | Aaron, Raina | Ping
+
+GROUP 4: 
+Vicente (Host) | Cortney | Nenita | Letha, Bruce | Kevin | Lucienne, Clyde 
+
+WEEK 35
+GROUP 1: 
+Angeline (Host) | Aaron, Raina | Ping | Collen | Noelia | Colette | Bob
+
+GROUP 2: 
+Dong (Host) | Kourtney | Harmony | Arlette | Yolando | Yahaira | Gearldine
+
+GROUP 3: 
+Virgen (Host) | Jenice | Vicente | Nenita | Letha, Bruce | Kevin
+
+GROUP 4: 
+Lucienne, Clyde  (Host) | Eddie, Mel | Cortney | Darnell | Miyoko
+
+WEEK 36
+GROUP 1: 
+Noelia (Host) | Jenice | Harmony | Arlette | Aaron, Raina | Ping | Miyoko
+
+GROUP 2: 
+Colette (Host) | Collen | Angeline | Dong | Yolando | Yahaira | Gearldine
+
+GROUP 3: 
+Virgen (Host) | Eddie, Mel | Vicente | Nenita | Letha, Bruce
+
+GROUP 4: 
+Kevin (Host) | Darnell | Bob | Kourtney | Lucienne, Clyde  | Cortney
+
+WEEK 37
+GROUP 1: 
+Noelia (Host) | Angeline | Colette | Dong | Yolando | Yahaira | Gearldine | Darnell
+
+GROUP 2: 
+Virgen (Host) | Harmony | Arlette | Aaron, Raina | Ping | Collen
+
+GROUP 3: 
+Vicente (Host) | Bob | Eddie, Mel | Jenice | Nenita | Kevin
+
+GROUP 4: 
+Letha, Bruce (Host) | Lucienne, Clyde  | Miyoko | Kourtney | Cortney
+
+WEEK 38
+GROUP 1: 
+Colette (Host) | Harmony | Arlette | Aaron, Raina | Ping | Collen
+
+GROUP 2: 
+Dong (Host) | Angeline | Noelia | Yolando | Yahaira | Gearldine | Virgen
+
+GROUP 3: 
+Vicente (Host) | Jenice | Nenita | Letha, Bruce | Kevin | Cortney
+
+GROUP 4: 
+Darnell (Host) | Lucienne, Clyde  | Miyoko | Bob | Kourtney | Eddie, Mel
+
+WEEK 39
+GROUP 1: 
+Colette (Host) | Noelia | Dong | Yolando | Yahaira | Gearldine | Virgen | Bob
+
+GROUP 2: 
+Vicente (Host) | Harmony | Arlette | Aaron, Raina | Ping | Collen
+
+GROUP 3: 
+Nenita (Host) | Kourtney | Jenice | Angeline | Letha, Bruce | Kevin
+
+GROUP 4: 
+Lucienne, Clyde  (Host) | Eddie, Mel | Cortney | Darnell | Miyoko
+
+WEEK 40
+GROUP 1: 
+Dong (Host) | Aaron, Raina | Ping | Collen | Angeline | Noelia | Harmony
+
+GROUP 2: 
+Yolando (Host) | Kevin | Lucienne, Clyde  | Cortney | Darnell | Miyoko
+
+GROUP 3: 
+Yahaira (Host) | Colette | Gearldine | Virgen | Vicente | Nenita | Bob
+
+GROUP 4: 
+Letha, Bruce (Host) | Arlette | Kourtney | Eddie, Mel | Jenice
+
+WEEK 41
+GROUP 1: 
+Dong (Host) | Colette | Yolando | Yahaira | Gearldine | Virgen | Vicente | Darnell
+
+GROUP 2: 
+Nenita (Host) | Harmony | Arlette | Aaron, Raina | Ping | Collen
+
+GROUP 3: 
+Letha, Bruce (Host) | Angeline | Noelia | Kevin | Lucienne, Clyde 
+
+GROUP 4: 
+Bob (Host) | Miyoko | Kourtney | Eddie, Mel | Jenice | Cortney
+
+WEEK 42
+GROUP 1: 
+Yolando (Host) | Bob | Kourtney | Eddie, Mel | Jenice | Harmony | Arlette
+
+GROUP 2: 
+Yahaira (Host) | Collen | Angeline | Noelia | Colette | Dong | Gearldine
+
+GROUP 3: 
+Virgen (Host) | Ping | Vicente | Nenita | Letha, Bruce | Kevin
+
+GROUP 4: 
+Lucienne, Clyde  (Host) | Aaron, Raina | Cortney | Darnell | Miyoko
+
+WEEK 43
+GROUP 1: 
+Yolando (Host) | Arlette | Aaron, Raina | Ping | Collen | Angeline | Bob
+
+GROUP 2: 
+Yahaira (Host) | Dong | Gearldine | Virgen | Vicente | Nenita | Kevin
+
+GROUP 3: 
+Letha, Bruce (Host) | Colette | Lucienne, Clyde  | Cortney | Darnell
+
+GROUP 4: 
+Eddie, Mel (Host) | Kourtney | Jenice | Harmony | Noelia | Miyoko
+
+WEEK 44
+GROUP 1: 
+Yolando (Host) | Noelia | Colette | Dong | Yahaira | Gearldine | Virgen | Collen
+
+GROUP 2: 
+Vicente (Host) | Angeline | Nenita | Letha, Bruce | Kevin | Cortney
+
+GROUP 3: 
+Darnell (Host) | Lucienne, Clyde  | Miyoko | Bob | Kourtney | Jenice
+
+GROUP 4: 
+Harmony (Host) | Eddie, Mel | Arlette | Aaron, Raina | Ping
+
+WEEK 45
+GROUP 1: 
+Yahaira (Host) | Yolando | Gearldine | Virgen | Vicente | Nenita | Kevin | Arlette
+
+GROUP 2: 
+Letha, Bruce (Host) | Ping | Collen | Noelia | Colette | Dong
+
+GROUP 3: 
+Lucienne, Clyde  (Host) | Angeline | Cortney | Darnell | Miyoko | Bob
+
+GROUP 4: 
+Kourtney (Host) | Aaron, Raina | Eddie, Mel | Jenice | Harmony
+
+WEEK 46
+GROUP 1: 
+Gearldine (Host) | Eddie, Mel | Jenice | Harmony | Ping | Collen | Cortney
+
+GROUP 2: 
+Virgen (Host) | Angeline | Noelia | Colette | Dong | Yolando | Yahaira
+
+GROUP 3: 
+Vicente (Host) | Aaron, Raina | Nenita | Letha, Bruce | Kevin
+
+GROUP 4: 
+Miyoko (Host) | Darnell | Bob | Kourtney | Arlette | Lucienne, Clyde 
+
+WEEK 47
+GROUP 1: 
+Gearldine (Host) | Angeline | Noelia | Colette | Dong | Yolando | Yahaira | Arlette
+
+GROUP 2: 
+Virgen (Host) | Collen | Vicente | Nenita | Letha, Bruce | Kevin
+
+GROUP 3: 
+Lucienne, Clyde  (Host) | Ping | Cortney | Darnell | Miyoko | Bob
+
+GROUP 4: 
+Kourtney (Host) | Aaron, Raina | Eddie, Mel | Jenice | Harmony
+
+WEEK 48
+GROUP 1: 
+Virgen (Host) | Gearldine | Vicente | Nenita | Letha, Bruce | Kevin | Noelia
+
+GROUP 2: 
+Kourtney (Host) | Bob | Eddie, Mel | Jenice | Harmony | Arlette
+
+GROUP 3: 
+Darnell (Host) | Cortney | Miyoko | Aaron, Raina | Ping | Collen
+
+GROUP 4: 
+Dong (Host) | Colette | Yolando | Yahaira | Lucienne, Clyde  | Angeline
+
+WEEK 49
+GROUP 1: 
+Vicente (Host) | Noelia | Colette | Dong | Yolando | Yahaira | Gearldine | Arlette
+
+GROUP 2: 
+Nenita (Host) | Virgen | Letha, Bruce | Kevin | Lucienne, Clyde 
+
+GROUP 3: 
+Collen (Host) | Ping | Angeline | Cortney | Darnell | Miyoko | Bob
+
+GROUP 4: 
+Kourtney (Host) | Aaron, Raina | Eddie, Mel | Jenice | Harmony
+
+WEEK 50
+GROUP 1: 
+Vicente (Host) | Virgen | Nenita | Letha, Bruce | Kevin | Cortney | Yahaira
+
+GROUP 2: 
+Jenice (Host) | Eddie, Mel | Harmony | Arlette | Aaron, Raina
+
+GROUP 3: 
+Darnell (Host) | Lucienne, Clyde  | Miyoko | Bob | Kourtney | Ping
+
+GROUP 4: 
+Collen (Host) | Gearldine | Angeline | Noelia | Colette | Dong | Yolando
+
+WEEK 51
+GROUP 1: 
+Nenita (Host) | Colette | Dong | Yolando | Yahaira | Gearldine | Virgen
+
+GROUP 2: 
+Letha, Bruce (Host) | Vicente | Kevin | Lucienne, Clyde  | Cortney
+
+GROUP 3: 
+Angeline (Host) | Collen | Noelia | Darnell | Miyoko | Bob | Kourtney
+
+GROUP 4: 
+Eddie, Mel (Host) | Ping | Jenice | Harmony | Arlette | Aaron, Raina
+
+WEEK 52
+GROUP 1: 
+Nenita (Host) | Vicente | Letha, Bruce | Kevin | Lucienne, Clyde  | Yolando
+
+GROUP 2: 
+Kourtney (Host) | Bob | Eddie, Mel | Jenice | Harmony | Arlette
+
+GROUP 3: 
+Virgen (Host) | Gearldine | Cortney | Darnell | Miyoko | Aaron, Raina
+
+GROUP 4: 
+Ping (Host) | Yahaira | Collen | Angeline | Noelia | Colette | Dong
+
+WEEK 53
+GROUP 1: 
+Letha, Bruce (Host) | Yolando | Yahaira | Gearldine | Virgen | Vicente | Dong
+
+GROUP 2: 
+Kevin (Host) | Eddie, Mel | Jenice | Harmony | Arlette | Ping
+
+GROUP 3: 
+Kourtney (Host) | Bob | Aaron, Raina | Collen | Angeline | Noelia
+
+GROUP 4: 
+Lucienne, Clyde  (Host) | Nenita | Cortney | Darnell | Miyoko | Colette
+
+WEEK 54
+GROUP 1: 
+Letha, Bruce (Host) | Nenita | Kevin | Lucienne, Clyde  | Cortney | Gearldine
+
+GROUP 2: 
+Eddie, Mel (Host) | Kourtney | Jenice | Harmony | Arlette | Ping
+
+GROUP 3: 
+Darnell (Host) | Vicente | Miyoko | Bob | Aaron, Raina | Collen
+
+GROUP 4: 
+Angeline (Host) | Virgen | Noelia | Colette | Dong | Yolando | Yahaira
+
+WEEK 55
+GROUP 1: 
+Kevin (Host) | Aaron, Raina | Collen | Gearldine | Virgen | Vicente | Yahaira
+
+GROUP 2: 
+Miyoko (Host) | Darnell | Bob | Kourtney | Eddie, Mel | Jenice
+
+GROUP 3: 
+Lucienne, Clyde  (Host) | Letha, Bruce | Cortney | Harmony | Arlette
+
+GROUP 4: 
+Ping (Host) | Nenita | Angeline | Noelia | Colette | Dong | Yolando
+
+WEEK 56
+GROUP 1: 
+Kevin (Host) | Nenita | Letha, Bruce | Lucienne, Clyde  | Cortney | Gearldine
+
+GROUP 2: 
+Eddie, Mel (Host) | Kourtney | Jenice | Harmony | Arlette | Ping
+
+GROUP 3: 
+Darnell (Host) | Vicente | Miyoko | Bob | Aaron, Raina | Collen
+
+GROUP 4: 
+Angeline (Host) | Virgen | Noelia | Colette | Dong | Yolando | Yahaira
+

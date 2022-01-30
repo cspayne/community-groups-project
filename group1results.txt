@@ -1,0 +1,403 @@
+WEEK 1
+GROUP 1: 
+Euna (Host) | Rachel | Joya | Clifton
+
+GROUP 2: 
+Cammy (Host) | Tracee | Juliann | Manuel
+
+GROUP 3: 
+Senaida, Jakarta (Host) | Victor | Devon
+
+GROUP 4: 
+Glennis (Host) | Kory | Gayla, Jim
+
+WEEK 2
+GROUP 1: 
+Euna (Host) | Gayla, Jim | Cammy
+
+GROUP 2: 
+Tracee (Host) | Juliann | Manuel | Victor
+
+GROUP 3: 
+Devon (Host) | Glennis | Kory | Rachel
+
+GROUP 4: 
+Joya (Host) | Clifton | Senaida, Jakarta
+
+WEEK 3
+GROUP 1: 
+Euna (Host) | Tracee | Juliann | Manuel
+
+GROUP 2: 
+Senaida, Jakarta (Host) | Glennis | Kory
+
+GROUP 3: 
+Rachel (Host) | Joya | Gayla, Jim
+
+GROUP 4: 
+Clifton (Host) | Cammy | Victor | Devon
+
+WEEK 4
+GROUP 1: 
+Euna (Host) | Senaida, Jakarta | Victor
+
+GROUP 2: 
+Devon (Host) | Joya | Gayla, Jim
+
+GROUP 3: 
+Clifton (Host) | Tracee | Juliann | Manuel
+
+GROUP 4: 
+Glennis (Host) | Rachel | Cammy | Kory
+
+WEEK 5
+GROUP 1: 
+Euna (Host) | Devon | Glennis | Kory
+
+GROUP 2: 
+Rachel (Host) | Clifton | Cammy | Tracee
+
+GROUP 3: 
+Juliann (Host) | Manuel | Senaida, Jakarta
+
+GROUP 4: 
+Victor (Host) | Joya | Gayla, Jim
+
+WEEK 6
+GROUP 1: 
+Rachel (Host) | Juliann | Manuel | Victor
+
+GROUP 2: 
+Devon (Host) | Euna | Clifton | Cammy
+
+GROUP 3: 
+Tracee (Host) | Senaida, Jakarta | Glennis
+
+GROUP 4: 
+Kory (Host) | Joya | Gayla, Jim
+
+WEEK 7
+GROUP 1: 
+Rachel (Host) | Senaida, Jakarta | Devon
+
+GROUP 2: 
+Glennis (Host) | Euna | Joya | Clifton
+
+GROUP 3: 
+Cammy (Host) | Victor | Kory | Tracee
+
+GROUP 4: 
+Juliann (Host) | Gayla, Jim | Manuel
+
+WEEK 8
+GROUP 1: 
+Rachel (Host) | Glennis | Kory | Euna
+
+GROUP 2: 
+Joya (Host) | Gayla, Jim | Cammy
+
+GROUP 3: 
+Tracee (Host) | Devon | Clifton | Juliann
+
+GROUP 4: 
+Manuel (Host) | Senaida, Jakarta | Victor
+
+WEEK 9
+GROUP 1: 
+Joya (Host) | Tracee | Juliann | Manuel
+
+GROUP 2: 
+Senaida, Jakarta (Host) | Euna | Rachel
+
+GROUP 3: 
+Gayla, Jim (Host) | Clifton | Cammy
+
+GROUP 4: 
+Victor (Host) | Devon | Glennis | Kory
+
+WEEK 10
+GROUP 1: 
+Joya (Host) | Victor | Devon | Glennis
+
+GROUP 2: 
+Kory (Host) | Euna | Rachel | Clifton
+
+GROUP 3: 
+Cammy (Host) | Senaida, Jakarta | Tracee
+
+GROUP 4: 
+Juliann (Host) | Gayla, Jim | Manuel
+
+WEEK 11
+GROUP 1: 
+Joya (Host) | Kory | Euna | Rachel
+
+GROUP 2: 
+Gayla, Jim (Host) | Tracee | Juliann
+
+GROUP 3: 
+Manuel (Host) | Devon | Glennis | Clifton
+
+GROUP 4: 
+Cammy (Host) | Victor | Senaida, Jakarta
+
+WEEK 12
+GROUP 1: 
+Gayla, Jim (Host) | Manuel | Victor
+
+GROUP 2: 
+Devon (Host) | Tracee | Juliann | Glennis
+
+GROUP 3: 
+Kory (Host) | Cammy | Senaida, Jakarta
+
+GROUP 4: 
+Clifton (Host) | Euna | Rachel | Joya
+
+WEEK 13
+GROUP 1: 
+Gayla, Jim (Host) | Senaida, Jakarta
+
+GROUP 2: 
+Victor (Host) | Euna | Rachel | Clifton
+
+GROUP 3: 
+Cammy (Host) | Devon | Glennis | Kory
+
+GROUP 4: 
+Tracee (Host) | Joya | Juliann | Manuel
+
+WEEK 14
+GROUP 1: 
+Gayla, Jim (Host) | Devon | Glennis
+
+GROUP 2: 
+Kory (Host) | Tracee | Juliann | Manuel
+
+GROUP 3: 
+Senaida, Jakarta (Host) | Joya | Clifton
+
+GROUP 4: 
+Cammy (Host) | Euna | Rachel | Victor
+
+WEEK 15
+GROUP 1: 
+Gayla, Jim (Host) | Kory | Euna
+
+GROUP 2: 
+Clifton (Host) | Senaida, Jakarta | Glennis
+
+GROUP 3: 
+Cammy (Host) | Joya | Tracee | Juliann
+
+GROUP 4: 
+Manuel (Host) | Rachel | Victor | Devon
+
+WEEK 16
+GROUP 1: 
+Gayla, Jim (Host) | Rachel | Joya
+
+GROUP 2: 
+Clifton (Host) | Kory | Euna | Cammy
+
+GROUP 3: 
+Tracee (Host) | Glennis | Juliann | Manuel
+
+GROUP 4: 
+Senaida, Jakarta (Host) | Devon | Victor
+
+WEEK 17
+GROUP 1: 
+Clifton (Host) | Gayla, Jim | Cammy
+
+GROUP 2: 
+Tracee (Host) | Kory | Euna | Rachel
+
+GROUP 3: 
+Juliann (Host) | Victor | Devon | Glennis
+
+GROUP 4: 
+Manuel (Host) | Joya | Senaida, Jakarta
+
+WEEK 18
+GROUP 1: 
+Cammy (Host) | Gayla, Jim | Clifton
+
+GROUP 2: 
+Tracee (Host) | Joya | Juliann | Manuel
+
+GROUP 3: 
+Senaida, Jakarta (Host) | Rachel | Victor
+
+GROUP 4: 
+Devon (Host) | Euna | Glennis | Kory
+
+WEEK 19
+GROUP 1: 
+Tracee (Host) | Gayla, Jim | Clifton
+
+GROUP 2: 
+Juliann (Host) | Kory | Euna | Rachel
+
+GROUP 3: 
+Manuel (Host) | Cammy | Senaida, Jakarta
+
+GROUP 4: 
+Victor (Host) | Joya | Devon | Glennis
+
+WEEK 20
+GROUP 1: 
+Tracee (Host) | Cammy | Juliann | Manuel
+
+GROUP 2: 
+Senaida, Jakarta (Host) | Gayla, Jim
+
+GROUP 3: 
+Victor (Host) | Clifton | Devon | Glennis
+
+GROUP 4: 
+Kory (Host) | Joya | Euna | Rachel
+
+WEEK 21
+GROUP 1: 
+Juliann (Host) | Joya | Clifton | Cammy
+
+GROUP 2: 
+Manuel (Host) | Kory | Euna | Rachel
+
+GROUP 3: 
+Senaida, Jakarta (Host) | Tracee | Victor
+
+GROUP 4: 
+Devon (Host) | Gayla, Jim | Glennis
+
+WEEK 22
+GROUP 1: 
+Juliann (Host) | Tracee | Manuel | Victor
+
+GROUP 2: 
+Devon (Host) | Senaida, Jakarta | Glennis
+
+GROUP 3: 
+Kory (Host) | Cammy | Euna | Rachel
+
+GROUP 4: 
+Gayla, Jim (Host) | Joya | Clifton
+
+WEEK 23
+GROUP 1: 
+Manuel (Host) | Gayla, Jim | Tracee
+
+GROUP 2: 
+Senaida, Jakarta (Host) | Cammy | Juliann
+
+GROUP 3: 
+Victor (Host) | Clifton | Devon | Glennis
+
+GROUP 4: 
+Kory (Host) | Joya | Euna | Rachel
+
+WEEK 24
+GROUP 1: 
+Manuel (Host) | Juliann | Senaida, Jakarta
+
+GROUP 2: 
+Victor (Host) | Cammy | Tracee | Devon
+
+GROUP 3: 
+Glennis (Host) | Clifton | Kory | Euna
+
+GROUP 4: 
+Joya (Host) | Rachel | Gayla, Jim
+
+WEEK 25
+GROUP 1: 
+Senaida, Jakarta (Host) | Manuel | Victor
+
+GROUP 2: 
+Devon (Host) | Juliann | Glennis | Kory
+
+GROUP 3: 
+Tracee (Host) | Cammy | Euna | Rachel
+
+GROUP 4: 
+Gayla, Jim (Host) | Joya | Clifton
+
+WEEK 26
+GROUP 1: 
+Victor (Host) | Juliann | Manuel | Devon
+
+GROUP 2: 
+Glennis (Host) | Tracee | Senaida, Jakarta
+
+GROUP 3: 
+Kory (Host) | Cammy | Euna | Rachel
+
+GROUP 4: 
+Gayla, Jim (Host) | Joya | Clifton
+
+WEEK 27
+GROUP 1: 
+Victor (Host) | Senaida, Jakarta | Devon
+
+GROUP 2: 
+Glennis (Host) | Juliann | Manuel | Kory
+
+GROUP 3: 
+Tracee (Host) | Cammy | Euna | Rachel
+
+GROUP 4: 
+Gayla, Jim (Host) | Joya | Clifton
+
+WEEK 28
+GROUP 1: 
+Devon (Host) | Manuel | Senaida, Jakarta
+
+GROUP 2: 
+Glennis (Host) | Victor | Kory | Euna
+
+GROUP 3: 
+Juliann (Host) | Tracee | Rachel | Joya
+
+GROUP 4: 
+Clifton (Host) | Gayla, Jim | Cammy
+
+WEEK 29
+GROUP 1: 
+Devon (Host) | Victor | Glennis | Kory
+
+GROUP 2: 
+Gayla, Jim (Host) | Joya | Clifton
+
+GROUP 3: 
+Rachel (Host) | Euna | Cammy | Tracee
+
+GROUP 4: 
+Manuel (Host) | Juliann | Senaida, Jakarta
+
+WEEK 30
+GROUP 1: 
+Glennis (Host) | Devon | Kory | Euna
+
+GROUP 2: 
+Clifton (Host) | Gayla, Jim | Cammy
+
+GROUP 3: 
+Joya (Host) | Rachel | Tracee | Juliann
+
+GROUP 4: 
+Senaida, Jakarta (Host) | Manuel | Victor
+
+WEEK 31
+GROUP 1: 
+Kory (Host) | Victor | Devon | Glennis
+
+GROUP 2: 
+Gayla, Jim (Host) | Joya | Clifton
+
+GROUP 3: 
+Rachel (Host) | Euna | Cammy | Tracee
+
+GROUP 4: 
+Manuel (Host) | Juliann | Senaida, Jakarta
+
